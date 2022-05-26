@@ -1,0 +1,37 @@
+{
+   "isRedirect": false,
+   "message": "Hai there is new update for this app please download!",
+   "redirectUrl": "-",
+   "moreApps": [
+      {
+         "title": "Encanto Coloring Mirabel",
+         "description": "Encanto Coloring Mirabel is full of fun and colorful tools that help kids of all ages enjoy the art of painting on their mobile devices. There are many modes that the whole family can enjoy.It has an easy to understand interface.",
+         "thumb": "https://raw.githubusercontent.com/craftlover33/iconcoloring6/main/iconencanto.png",
+         "url": "https://play.google.com/store/apps/details?id=com.fullclr.encantocoloringbook"
+      },
+      {
+         "title": "Mom Long Legs Coloring Book",
+         "description": "Mom Long Legs Coloring Book is full of fun and colorful tools that help kids of all ages enjoy the art of painting on their mobile devices. There are many modes that the whole family can enjoy.It has an easy to understand interface.",
+         "thumb": "https://raw.githubusercontent.com/craftlover33/iconcoloring6/main/iconmommy.png",
+         "url": "https://play.google.com/store/apps/details?id=com.fullclr.momlonglegscoloringlife"
+      },
+      {
+         "title": "Toca Boca Life Coloring Master",
+         "description": "Welcome to the coloring book of Toca Boca Coloring Life Master with cartoon Toca Boca coloring full of vehicles delight! Let your family and friends explore the fascinating world of coloring in a really fun and educational way! Wow! So many Characters!",
+         "thumb": "https://raw.githubusercontent.com/craftlover33/iconcoloring6/main/icontoca.png",
+         "url": "https://play.google.com/store/apps/details?id=com.fullclr.tocacoloringlife"
+      },
+      {
+         "title": "",
+         "description": "",
+         "thumb": "",
+         "url": ""
+      },
+      {
+         "title": "",
+         "description": "",
+         "thumb": "",
+         "url": ""
+      }
+   ]
+}
